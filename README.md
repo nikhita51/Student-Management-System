@@ -1,14 +1,14 @@
-# Expense Tracker
+# Student Management System
 
-A Python-based expense tracking application designed to record, categorize, and manage personal expenses.
+A Python-based student management application for managing student records through a simple command-line interface.
 
 ## Features
 
-- Add new expenses
-- Categorize expenses
-- View recorded expenses
-- Search and filter expenses
-- Calculate total expenses
+- Add student records
+- View student records
+- Update student records
+- Delete student records
+- Search student records
 - Input validation
 
 ## Tech Stack
@@ -17,7 +17,7 @@ A Python-based expense tracking application designed to record, categorize, and 
 
 ## Purpose
 
-Built as a hands-on Python project to strengthen programming fundamentals, data handling, modular programming, and problem-solving skills.
+Built as a hands-on Python project to strengthen programming fundamentals, CRUD operations, data handling, modular programming, and problem-solving skills.
 
 ## Author
 
